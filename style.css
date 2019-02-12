@@ -1,0 +1,40 @@
+* {
+	position: absolute;
+}
+#barn {
+	/*z-index: 2;*/
+	width: 190px;
+	top: 150px;
+	left: 132px;
+}
+
+#birds {
+	width: 391px;
+	top: -63px;
+	left: 583px;
+}
+
+#cow {
+	width: 700px;
+	top: 178px;
+	left: 338px;
+}
+
+#phoenix {
+	width: 50px;
+	top: 36px;
+	left: 457px;
+}
+
+#dog {
+	width: 45px;
+	top: 300px;
+	left: 305px;
+}
+
+#specs {
+	width: 53px;
+	top: 455px;
+	left: 554px;
+	z-index: 3;
+}
