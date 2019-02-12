@@ -1,8 +1,15 @@
 * {
 	position: absolute;
 }
+
+#field {
+	width: 1000px;
+	height: 563px;
+	top:0px;
+	left: 0px;
+}
+
 #barn {
-	/*z-index: 2;*/
 	width: 190px;
 	top: 150px;
 	left: 132px;
@@ -32,9 +39,17 @@
 	left: 305px;
 }
 
+#goats {
+	width: 250px;
+	top: 314px;
+	left: 0px;
+}
+
 #specs {
-	width: 53px;
-	top: 455px;
-	left: 554px;
+	width: 117px;
+    top: 325px;
+    left: 18px;
+    z-index: 3;
+    transform: rotate(-12deg);
 	z-index: 3;
 }
